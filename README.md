@@ -1,5 +1,6 @@
-# motheroffline# motheroffline
+# motheroffline
 
+graph & vector hybrid search toyproject for balancing graphRAG system
 **Fast vector search in Rust with Python bindings**  
 A toy project to implement vector indexing algorithms (Brute Force, IVF) from scratch in Rust, with PyO3 for Python integration.
 
