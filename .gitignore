@@ -1,0 +1,15 @@
+cat <<EOF > .gitignore
+/target
+__pycache__/
+/*.egg-info/
+/*.so
+*.pyc
+*.pyo
+*.pyd
+*.log
+.DS_Store
+.idea/
+.vscode/
+.env
+venv/
+EOF
